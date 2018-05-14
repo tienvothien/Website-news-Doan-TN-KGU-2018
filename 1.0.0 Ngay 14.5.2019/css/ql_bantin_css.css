@@ -1,0 +1,85 @@
+*{
+	font-family: "Times New Roman", Times, serif;
+
+}
+a{
+	text-decoration: none;
+}
+.noidung-bt{
+	width: 78%;
+	height: auto;
+	float: left;	
+
+
+}
+.hiennoidung-bt{
+	width: 100%;
+	height: 30%;
+	margin: auto;
+}
+
+
+.table-noidung-bt{
+	width: 100%;
+	height: 100%;
+	background-color: #99ffcc;
+	border: 1px solid black;
+	
+}
+.table-noidung-bt a{
+	text-decoration: none;
+}
+.table-noidung-bt td{
+	padding: 0px 0px 0px 20px;
+	height: auto;
+
+	border: 1px solid black;
+}
+.tieude-bt{
+	width: 60%;
+}
+.sua-bt{
+	font-weight: bold;
+	color: red;
+	width:7%;
+}
+.table-noidung-bt th{	
+	width: 20%;
+	background-color: white
+}
+.img-bt{
+	width: 95%;
+	height: 190px;
+	/* height: 50%;
+	 */
+}
+.chuahinh-bt{
+	width: 100%;
+ 	height: ;
+ 	margin: auto;
+ 
+}
+.td-1{
+  height: 30px;
+  color: blue;
+  font-size: 20px;
+  line-height: 26px;
+  
+
+}
+.td-2{
+color: black;
+font-size: 20px;
+}
+.chen-1{
+	width: 1%;
+	height: 20px;
+	background-color: blue;
+	float: left;
+}.
+.hiennoidung-bt table:hover{
+	 background-color: lightgoldenrodyellow;
+}
+.table-noidung-bt td:hover , th:hover{
+    background-color: lightgoldenrodyellow;
+}

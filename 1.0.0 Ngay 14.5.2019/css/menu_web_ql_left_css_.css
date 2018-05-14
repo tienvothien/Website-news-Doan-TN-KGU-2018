@@ -1,0 +1,89 @@
+*{
+  font-family: "Times New Roman", Times, serif;
+}
+.thongbao{
+	width: 20%;
+	height: auto;
+  float: left;	
+  border-right: 10px solid white;
+  background-color: #99ffcc;
+}
+.taikhoan{ 
+  margin-top: 10px;
+  width: 90%;
+  height: 100px;
+  margin: auto;
+  border: 5px solid white;
+}
+
+.menu1{    
+  text-align: center;
+  width: 90%;
+  float: left;
+  margin: auto;
+  margin-left: 5%;  
+  margin-top: 20px;
+  
+  
+}
+.menu{
+  margin-top: 20px;
+  top: -10px;
+  margin-left: -40px;  
+  list-style: none;
+}
+
+
+.menu li{
+  float: left;  
+  border-left: 2px  solid;
+  border-top: 2px solid;
+  border-right: 2px solid;
+  width: 100%;
+}
+.menu li a{
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.menu li{
+  position: relative;
+}
+.menu li a{
+  padding: 10px;
+  line-height: 20px;
+  display: inline-block;
+}
+.menu .sub-menu{
+  width: 255px;
+  list-style: none;
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 255px;  
+  background-color: #99ffcc;  
+  padding: 0px;
+}
+.menu .sub-menu li{  
+  border-left: 2px  solid;
+  border-top: 2px solid;
+  border-right: 2px solid;
+  text-align: left;
+  width: 255px;
+}
+.menu1 li a:hover{
+  display: block;
+  background-color: lightsteelblue;
+}
+.menu ul li a:hover{
+  display: block;
+  background-color: lightsteelblue;
+}
+.menu li:hover > .sub-menu{
+  display: block;
+  background-color: #99ffcc;
+}
+.menu>li>.sub-menu{
+  top: 0px;
+  left: 100%;
+  background-color: #99ffcc;
+}

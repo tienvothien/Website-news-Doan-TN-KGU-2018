@@ -1,0 +1,101 @@
+*{
+	font-family: "Times New Roman", Times, serif;
+}
+.table1 {
+	width: 70%;
+	height: auto; 
+	margin: auto;
+	font-size: 26px;
+	
+}
+.table1 tr{
+	height: 35px;
+}
+.table1 th{
+	text-align: right;
+	width: auto;
+}
+.table1 td{
+	width: 60%;
+	height: 40px;
+	text-align: left;
+	padding-left: 1%;	
+}
+.table1 input{
+	width: 70%;
+	height: auto;
+	line-height: 30px;
+	font-size: 20px; 
+	background-color: #99ffcc;
+}
+.nut{
+	width:70%; 
+	height: auto;
+	background-color: red; 
+	margin: auto;
+	}
+.nut input{
+	background-color: lightskyblue;
+	line-height: 30px;
+	font-size: 20px;
+	float: left; 
+	width: 30%;
+
+}
+
+.mot-1 {
+	margin-top: -3%;
+	width: 100%;
+	height: 50px;
+	padding-left: 0;
+}
+
+.mot-1 ul {
+  margin: 0 ; padding: 0;
+  list-style: none;
+  text-align: center;
+  
+}
+.mot-1 ul li {
+  display:block;
+  width: 24%;
+  height: 100%;
+  line-height: 50%;
+  position: relative;
+  float: left;
+  border-right: 10px solid white;
+}
+.mot-1 a{
+  text-decoration: none;
+}
+
+.table-2{
+	width: 70%;
+	height: auto;
+	font-size: 26px;
+	margin:  auto;	
+}
+.table-2 tr:hover{
+    background-color: lightgoldenrodyellow;
+}
+.table-2 th{
+	width: 30%;
+	text-align: right;
+	padding-right: 1%;
+
+
+}
+.tt-mk-2{
+	width: 100%;
+	height: auto;
+	background-color: lightgreen; 
+	margin-top: -3%
+}
+.tt-mk-1{
+
+	width: 100%;
+	 height: auto;
+	  background-color: #99ffcc; 
+	  margin-top: -3%;
+	  display: none;
+}

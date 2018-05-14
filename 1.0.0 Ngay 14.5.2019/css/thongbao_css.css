@@ -1,0 +1,58 @@
+*{
+	font-family: "Times New Roman", Times, serif;
+	
+}
+.thongbao{
+	font-size: 25px;
+	width: 25%;
+	height: auto;
+	float: left;
+	margin: auto;
+	margin-top: 0px;
+	color: black;
+}
+.tintucmoitieude{
+	text-align: center;	
+	height: 40px;
+	background-color: #99ffcc;
+	border-radius: 20px 20px 0 0;
+}
+.chua-tintucmoi{
+	width: 100%;
+	height: auto;
+	margin: auto;
+	border-left: 1px solid #99ffcc;
+	border-right: 1px solid #99ffcc;
+	border-bottom: 1px solid #99ffcc;
+}
+.tinmoi {
+	width: 90%;
+	height: 40%;
+	margin: auto;
+	padding-top: -20px;
+	background-color: white;
+	border: 0 2px 2px 2px solid black;
+}
+.tinmoi ul{
+	list-style: none;
+	margin-left: -30px;
+	padding-right: 10px;
+}
+.tinmoi li{
+	border-bottom: 2px solid #99ffcc;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+.tinmoi a{
+	color: black;
+}
+.tinmoi li:hover{
+	background-color: #99ffcc;
+}.tinmoi {
+	width: 90%;
+	height: 40%;
+	margin: auto;
+	padding-top: -20px;
+	background-color: white;
+	border: 0 2px 2px 2px solid black;
+}

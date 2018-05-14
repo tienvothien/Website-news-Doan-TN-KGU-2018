@@ -1,0 +1,20 @@
+*{
+	font-family: "Times New Roman", Times, serif;
+}
+.nt-xoabantin{	
+	height: 40px;
+	font-size: 26px;
+	width: 20%;	
+	background-color: orange;
+}
+.nt-trolaibantin{	
+	height: 40px;
+	font-size: 26px;
+	width: 20%;
+	background-color: blue;
+}
+.class-div2{
+	width: 100%;
+	 height: auto;
+	 float: left;
+}

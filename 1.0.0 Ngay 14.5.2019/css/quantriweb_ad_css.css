@@ -1,0 +1,9 @@
+*{
+	font-family: "Times New Roman", Times, serif;
+}
+.layoutcenter{
+	width: 90%;
+	height: 500px;
+	margin: auto;
+	background-color: yellow;
+}

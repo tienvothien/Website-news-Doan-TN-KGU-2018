@@ -1,0 +1,70 @@
+*{
+	font-family: "Times New Roman", Times, serif;
+}
+.noidung-bt-1{
+	width: 63%;
+	height: auto;
+	float: left;	
+	margin-left: 5%;
+	border:  1px solid #99ffcc;
+
+}
+.hiennoidung-bt-1{
+	width: 100%;
+	height: auto;
+	margin: auto;
+}
+
+
+.table-noidung-bt-1{
+	width: 100%;
+	height: 100%;
+	padding-left: 20px;
+}
+.mauchu-bt{
+	color: DarkGrey ;
+	font-size: 20px;
+}
+.table-noidung-bt-1 td{
+	height: auto;
+	padding-left: 20px;
+}
+.table-noidung-bt-1 th{
+	text-align: left;	
+	width: 20%;
+	color: #e60000;
+}
+.img{
+	width: ;
+	height: auto;
+	/* height: 50%;
+	 */
+}
+.chuahinh{
+	width: 100%;
+ 	height: ;
+ 	margin: auto;
+ 
+}
+
+.td-2-2{
+	color: black;
+	font-size: 20px;
+}
+.chen-1{
+	width: 1%;
+	height: 20px;
+	background-color: blue;
+	float: left;
+}
+.chu-tieude-bt{
+	color: #e60000;
+	font-size: 30px;
+	padding-left: 10px;
+}
+.chu-trichdan-bt-1{
+	font-size: 26px;
+}
+.chu-noidung-bt-1{
+	font-size: 23px;
+}
